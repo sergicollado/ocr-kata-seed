@@ -1,3 +1,5 @@
+Its a https://github.com/kroysemaj/jasmine-seed fork in order to get it ready to OCR kata https://code.joejag.com/coding-dojo/bank-ocr/
+
 # jasmine-seed
 
 A simple seed TDD project set up with gulp and jasmine. There are no other bells or whistles, just Jasmine and gulp.

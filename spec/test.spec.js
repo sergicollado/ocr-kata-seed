@@ -6,4 +6,8 @@ describe('Setting up tests with Jasmine', function(){
   it('should see the source file', function() {
     expect(compliment()).toBe('You look nice today');
   });
+
+  it('should see others files', function() {
+    expect(entryPoint()).toBe('hi');
+  });
 });
